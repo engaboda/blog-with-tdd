@@ -1,0 +1,9 @@
+beautifulsoup4==4.7.1
+Django==2.1.4
+django-webtest==1.9.4
+pytz==2018.7
+six==1.12.0
+soupsieve==1.7.3
+waitress==1.2.0
+WebOb==1.8.5
+WebTest==2.0.32
